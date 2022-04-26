@@ -29,7 +29,7 @@ const columns = [
   {
     title: 'Age',
     dataIndex: 'age',
-    width: 150,
+    width: 180,
   },
   {
     title: 'Address',
